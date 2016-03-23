@@ -1,0 +1,104 @@
+Dies ist der Cache von Google von
+https://woody.ch/rblevidence.php?id=23754206. Es handelt sich dabei um
+ein Abbild der Seite, wie diese am 25. Sept. 2015 09:26:07 GMT angezeigt
+wurde.
+Die aktuelle Seite <https://woody.ch/rblevidence.php?id=23754206> sieht
+mittlerweile eventuell anders aus. Weitere Informationen
+<http://support.google.com/websearch/bin/answer.py?hl=de&p=cached&answer=1687222>
+Vollständige VersionNur-Text-Version
+<http://webcache.googleusercontent.com/search?q=cache:7OF-veQVw5kJ:https://woody.ch/rblevidence.php%3Fid%3D23754206%2B172.29.24.161&hl=de&strip=1&vwsrc=0>Quelle
+anzeigen
+<http://webcache.googleusercontent.com/search?q=cache:7OF-veQVw5kJ:https://woody.ch/rblevidence.php%3Fid%3D23754206%2B172.29.24.161&hl=de&strip=0&vwsrc=1>Tipp:
+Um Ihren Suchbegriff schnell auf dieser Seite zu finden, drücken Sie
+*Strg+F* bzw. *⌘-F* (Mac) und verwenden Sie die Suchleiste.
+
+
+  This Websites Spamvertized?
+
+This Website shows saved evidences of spammails I got on my spamtraps
+from which I feed my spam-blocking blacklists. If there is no evicence
+email found below, this means the entry has most probably expired in the
+meantime.
+It has come to my attention that spamers abuse this URL in their
+spam-emails to get my site reported. Please report those Spam-Email to
+services like spamcop etc.
+
+Regards
+-Benoit Panizzon-
+------------------------------------------------------------------------
+
+
+    Saved Evidences
+
+*HEADER*
+------------------------------------------------------------------------
+
+Received: by blacklist.woody.ch Spamtrap. Please stand by for parsing this Header
+From 157.161.9.30 21 Sep 23:56:43 2015
+Received: from (blacky.imp.ch [157.161.9.30]:60436)
+	from sharingservices@aol.com Auth:  
+	by a Spamtrap pretending to be an open relay
+	for listme@blacklist.woody.ch; Mon, 21 Sep 2015 23:56:43 +0200 (CEST)
+Received: from mx.imp.ch (mx1.imp.ch [157.161.9.191])	by blacky.imp.ch (SQL-8.14.1/8.14.3) with ESMTP id t8LLsRS4088593	for <spamtrap@blacky.imp.ch>; Mon, 21 Sep 2015 23:54:27 +0200 (CEST)	(envelope-from sharingservices@aol.com)
+X-Authentication-Warning: blacky.imp.ch: Host mx1.imp.ch [157.161.9.191] claimed to be mx.imp.ch
+Received: from thor.imp.ch (thor.imp.ch [157.161.4.17])	by mx.imp.ch (ImproWare IDMS 8.14.3/8.14.2) with ESMTP id t8LLtLq6001363	for <spamtrap@mx.imp.ch>; Mon, 21 Sep 2015 23:55:23 +0200	(envelope-from sharingservices@aol.com)
+Received: from asterix.imp.ch (asterix.imp.ch [157.161.12.4])	by thor.imp.ch (8.14.7/8.14.5) with ESMTP id t8LLtLt7034858	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO)	for <imp@imp.com>; Mon, 21 Sep 2015 23:55:21 +0200 (CEST)	(envelope-from sharingservices@aol.com)
+Date: Mon, 21 Sep 2015 23:55:21 +0200 (CEST)
+Received: from taclomr-a001e.mx.aol.com (taclomr-a001e.mx.aol.com [204.29.187.81])	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))	(No client certificate requested)	by asterix.imp.ch (Postfix) with ESMTPS id 57BB2C54E9	for <imp@imp.com>; Mon, 21 Sep 2015 23:55:16 +0200 (CEST)
+	by taclomr-a001e.mx.aol.com (Outbound Mail Relay) with ESMTP id 41D293800B62;
+	Mon, 21 Sep 2015 17:55:15 -0400 (EDT)
+From: sharingservices@aol.com
+Reply-To: klimesova@live.com
+To: imp@imp.com, imp@inbox.ru, imp@theriver.com
+Message-ID: <700673649.31416707.1442872515263.JavaMail.dpadmin@vm-149-174-150-116.asset.aol.com>
+Subject: 18,291+ people recommends to read this email today
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From-IP-Address: 172.29.24.161
+X-Greylist: Sender IP 157.161.4.17 whitelisted, not delayed
+X-Greylist: Sender IP whitelisted by DNSRBL, not delayed by milter-greylist-4.3.9 (asterix.imp.ch [0.0.0.0]); Mon, 21 Sep 2015 23:55:16 +0200 (CEST)
+X-Scanned-By: MIMEDefang 2.64 on 157.161.9.64
+X-Scanned-By: MIMEDefang 2.73 on 127.0.1.1
+X-Spam-Checksum: 1d5b8c6aea51abbc1649aa13054757a1
+X-Processed-By: filter7.imp.ch
+X-Virus-Message-Status: No
+X-Virus-Status: No, scantime="0.0003 seconds"
+X-Mailstats: S (t + 0.5) 10.549: R=1.0000:H=0,S=125,U=0,V=0 (149.174.150.116)
+X-Spam-Level: ***********
+X-MS-Exchange-Organization-SCL: 11.049
+X-Spam-Flag: YES
+X-Spam-Status: Yes, hits=11.049 required=5 scantime="12.8590 seconds" tests=BP_BITLY,BP_OWBIT,FH_HELO_EQ_D_D_D_D,
+	FREEMAIL_FROM,FREEMAIL_REPLYTO,HELO_DYNAMIC_IPADDR,
+	HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,
+	NO_REAL_NAME,RCVD_IN_BL_SPAMCOP_NET,
+	RCVD_IN_IMP_SPAM,RDNS_DYNAMIC,SPF_SOFTFAIL
+X-Spam-Report: ---- Start der SpamAssassin Auswertung
+	 2.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	             [Blocked - see <http://www.spamcop.net/bl.shtml?149.174.150.116>]
+	 0.1 RCVD_IN_IMP_SPAM       RBL: Listed in spamrbl.imp.ch.
+	                            [149.174.150.116 listed in spamrbl.imp.ch]
+	 2.0 HELO_DYNAMIC_IPADDR    Relay HELO'd using suspicious hostname (IP addr
+	                            1)
+	 0.1 FREEMAIL_FROM          From-address is freemail domain
+	 0.9 SPF_SOFTFAIL           SPF: sender does not match SPF record (softfail)
+	 2.0 FREEMAIL_REPLYTO       Different freemail address found in Reply-To or Body
+	                             than From
+	 1.0 BP_BITLY               URI: bit.ly redirector
+	 0.0 HTML_MESSAGE           BODY: HTML included in message
+	 0.5 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+	 0.0 BP_OWBIT               owly or bitly redirector
+	 1.1 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+	 0.1 RDNS_DYNAMIC           Delivered to trusted network by host with
+	                            dynamic-looking rDNS
+	 0.5 FH_HELO_EQ_D_D_D_D     Helo is d-d-d-d
+	 0.1 NO_REAL_NAME           NO_REAL_NAME
+	---- Ende der SpamAssassin Auswertung
+
+*BODY*
+------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------
+
+End
