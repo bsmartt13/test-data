@@ -1,32 +1,5 @@
-test1.png
-KillDisk and BlackEnergy Are Not Just Energy Sector Threats 
-10101 N. De Anza Blvd. Cupertino, CA 95014 
-test2.png
-U.S. toll free: 1 +800.228.5651 Phone: 1 +408.257.1500 Fax: 1 +408.257.2003 
-test2.png
-Research Paper Assets-03.png
-Appendix 
-TM_logo_newtag_horiz_4c.jpg
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-TrendLabs Security Intelligence Blog 
+
 Trend Micro Incorporated, a global leader in security software, strives to make the world safe for exchanging digital information. Our innovative solutions for consumers, businesses and governments provide layered content security to protect information on mobile devices, endpoints, gateways, servers and the cloud. All of our solutions are powered by cloud-based global threat intelligence, the Trend Micro™ Smart Protection Network™, and are supported by over 1,200 threat experts around the globe. For more information, visit www.trendmicro.com.  
- 
-Kyle Wilhoit 
-February 2016 
  
 Hashes  
  
@@ -44,131 +17,42 @@ Hashes
  
 1CBE4E22B034EE8EA8567E3F8EB9426B30D4AFFE 
  
-20901CC767055F29CA3B676550164A66F85E2A42 
- 
-2C1260FD5CEAEF3B5CB11D702EDC4CDD1610C2ED 
- 
-49af5fc6fb614131bd446f3ed9f33568ea04659f 
- 
-606573cd1dee5caf1e11d73a9d3f4068680aaf1a 
- 
-2D805BCA41AA0EB1FC7EC3BD944EFD7DBA686AE1 
- 
-4BC2BBD1809C8B66EECD7C28AC319B948577DE7B 
- 
-31591ef60155fff5164f9a6eaf442b998be6e577 
- 
-502BD7662A553397BBDCFA27B585D740A20C49FC 
- 
-672F5F332A6303080D807200A7F258C8155C54AF 
- 
-84248BC0AC1F2F42A41CFFFA70B21B347DDC70E9 
- 
-A427B264C1BD2712D1178912753BAC051A7A2F6C 
- 
-A9ACA6F541555619159640D3EBC570CDCDCE0A0D 
- 
-B05E577E002C510E7AB11B996A1CD8FE8FDADA0C 
- 
-BD87CF5B66E36506F1D6774FD40C2C92A196E278 
- 
-BE319672A87D0DD1F055AD1221B6FFD8C226A6E2 
- 
-C7E919622D6D8EA2491ED392A0F8457E4483EAE9 
- 
-CD07036416B3A344A34F4571CE6A1DF3CBB5783F 
- 
-D91E6BB091551E773B3933BE5985F91711D6AC3B 
- 
-E1C2B28E6A35AEADB508C60A9D09AB7B1041AFB8 
- 
-E40F0D402FDCBA6DD7467C1366D040B02A44628C 
- 
-E5A2204F085C07250DA07D71CB4E48769328D7DC 
- 
-345881fc59b28b9ef74367811e151434be927a09 
- 
-30abab134ffced96d9c1191da46dbc9ae4170022 
- 
-6e49bc82f8eb5ef5380aad1e7115c7e167c6b878 
- 
-c7081b80d0e165cb0a732851f4355f17bbd5e250 
- 
-53bb81ab4b3029a76a483d742749ef706a521167 
- 
-a6dcca175949ba91ea95ffa6148bdad41f60bf0e 
- 
-899baab61f32c68cde98db9d980cd4fe39edd572 
- 
 
-Hashes  
- 
-16f44fac7e8bc94eccd7ad9692e6665ef540eec4 
- 
-8AD6F88C5813C2B4CD7ABAB1D6C056D95D6AC569 
- 
-6D6BA221DA5B1AE1E910BBEAA07BD44AFF26A7C0 
- 
-f3e41eb94c4d72a98cd743bbb02d248f510ad925 
- 
-16f44fac7e8bc94eccd7ad9692e6665ef540eec4 
- 
-8AD6F88C5813C2B4CD7ABAB1D6C056D95D6AC569 
- 
-6D6BA221DA5B1AE1E910BBEAA07BD44AFF26A7C0 
- 
-f3e41eb94c4d72a98cd743bbb02d248f510ad925 
- 
-01684e1ee4af38bb28ef6a4bea1da8d14f1c472d 
- 
-72D0B326410E1D0705281FDE83CB7C33C67BC8CA 
- 
-166D71C63D0EB609C4F77499112965DB7D9A51BB 
- 
-aa67ca4fb712374f5301d1d2bab0ac66107a4df1 
- 
-8c26c70fbffe7f250aaff234be9a014a996930bc 
- 
+# md5 
 3e49e0dd526eccfad15273acf50a8270 
- 
-3298dcea06a4c7f745a932c72ffe0741e9a3a49e 
- 
-3a1a932ea1a95b8bc33dacaf2b2aaa764c105881 
- 
-fe8197008ddb257f79609f29de8c7e4404dd5dd9 
- 
-11c911c7e52c127de83bfa9e7f9c050951a7553c 
- 
-058257111cd1addf0481c23ae75861a0004e90ea 
+
  
 
-©2015 by Trend Micro, Incorporated. All rights reserved. Trend Micro and the Trend Micro t-ball logo are trademarks or registered trademarks of Trend Micro, Incorporated. All other product or company names may be trademarks or registered trademarks of their owners. 
+
+ #sha256
+33140ff0c77ba446bdb099d21afa28d005794a5eab364c39382a6b235c4caef9
+
+9e8abd0d2f92810929e0b1f7c6a151a573089b369fab365512b00ede4cd68cab
+
+d5213e974079aa7362585f628a3e9597609816781a9dfb4aec9660b99d5f864d
+
+7b583488a31def8b42e6a1b562c893d42791858c79029299831a3e58724b51d6
+
+2015 by Trend Micro, Incorporated. All rights reserved. Trend Micro and the Trend Micro t-ball logo are trademarks or registered trademarks of Trend Micro, Incorporated. All other product or company names may be trademarks or registered trademarks of their owners. 
  
 SSH backdoor key 
  
 AAAAB3NzaC1yc2EAAAABJQAAAQEAsrGnWG3XPW4tO8tRLhFXQyuM5ZcLl9tIsnlMyIUXwptcU29hGpzMWVmbAy18EEEXKtyXIlxOKqp7CWgEJWWxjsvXKB66Gp/sVcizXqbV2P0PfVMRwZ144Ui0ffrpGxWMOnp7rrByANQSPdGtJlQ/yqqFFgiM2u7ilLsREQHSGsV6L1b8krnf0BrcwQ08MD3q7tNq3H3FEt0LPithBiCpRTuA9emsowt3gtVo745Qt1GVChYLA9GilmVmBO49HAnceZA9bVFA58Keq3Jy5W1DUv3HoWJkWBHkUn2IH1LSKurVr/xjNEi9Hez7uQP9j44xk/V/kA9Kh4E3czOCDxQ== rsa-key-2013112 
  
 
- 
-Digital File Signature Thumbprints 
- 
-EBC5D2D1C56D0D5BA8A087106E6E2AA0847AC21F 
- 
-FBD32532A03422E117200FEB7FA636BC48391BA0 
- 
-E4AF247AD5DD91DF3E4CAB5E80517E91D911ADE0 
- 
-F3E6FFF120629FABE005B2E1B5E2837999BDF50B 
- 
-C2B724D7D2E52055D402A74C0AFE464247D6BF4A 
- 
-FFD1B619595E52B27AD541ECEFB854A038B9FF9D 
- 
+ Alert (TA14-098A)
+OpenSSL 'Heartbleed' vulnerability (CVE-2014-0160)
 
- 
- 
+#some emails
+Fred (testbozo@reallysketch.ru)
+silly billy sillyjourno@bbc.co.uk
+TO:compromised@teslacrypt.ru
+FROM:snail@bb.de
+
+#todo add some whitelisted domain emails
+
+#IPv4
 C2 IP addresses 
- 
 5[.]149[.]254[.]114 
  
 5[.]9[.]32[.]230 
@@ -188,7 +72,7 @@ C2 IP addresses
 2[.]61[.]168[.]116  
  
 
- 
+#should be URL 
 Example C2 IP Address Interactions 
  
 5[.]9[.]32[.]230/Microsoft/Update/KS1945777.php  
@@ -205,9 +89,4 @@ Example C2 IP Address Interactions
  
 5[.]149[.]254[.]114/Microsoft/Update/KC074913.php  
  
-148[.]251[.]82[.]21/Microsoft/Update/KS4567890.php 
- 
-
- 
- 
-
+148[.]251[.]82[.]21/Microsoft/Update/KS4567890.php
