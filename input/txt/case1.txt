@@ -1,0 +1,92 @@
+
+Trend Micro Incorporated, a global leader in security software, strives to make the world safe for exchanging digital information. Our innovative solutions for consumers, businesses and governments provide layered content security to protect information on mobile devices, endpoints, gateways, servers and the cloud. All of our solutions are powered by cloud-based global threat intelligence, the Trend Micro™ Smart Protection Network™, and are supported by over 1,200 threat experts around the globe. For more information, visit www.trendmicro.com.  
+ 
+Hashes  
+ 
+4c424d5c8cfedf8d2164b9f833f7c631f94c5a4c 
+ 
+896fcacff6310bbe5335677e99e4c3d370f73d96 
+ 
+069163E1FB606C6178E23066E0AC7B7F0E18506B 
+ 
+0B4BE96ADA3B54453BD37130087618EA90168D72 
+ 
+1A716BF5532C13FA0DC407D00ACDC4A457FA87CD 
+ 
+1A86F7EF10849DA7D36CA27D0C9B1D686768E177 
+ 
+1CBE4E22B034EE8EA8567E3F8EB9426B30D4AFFE 
+ 
+
+# md5 
+3e49e0dd526eccfad15273acf50a8270 
+
+ 
+
+
+ #sha256
+33140ff0c77ba446bdb099d21afa28d005794a5eab364c39382a6b235c4caef9
+
+9e8abd0d2f92810929e0b1f7c6a151a573089b369fab365512b00ede4cd68cab
+
+d5213e974079aa7362585f628a3e9597609816781a9dfb4aec9660b99d5f864d
+
+7b583488a31def8b42e6a1b562c893d42791858c79029299831a3e58724b51d6
+
+2015 by Trend Micro, Incorporated. All rights reserved. Trend Micro and the Trend Micro t-ball logo are trademarks or registered trademarks of Trend Micro, Incorporated. All other product or company names may be trademarks or registered trademarks of their owners. 
+ 
+SSH backdoor key 
+ 
+AAAAB3NzaC1yc2EAAAABJQAAAQEAsrGnWG3XPW4tO8tRLhFXQyuM5ZcLl9tIsnlMyIUXwptcU29hGpzMWVmbAy18EEEXKtyXIlxOKqp7CWgEJWWxjsvXKB66Gp/sVcizXqbV2P0PfVMRwZ144Ui0ffrpGxWMOnp7rrByANQSPdGtJlQ/yqqFFgiM2u7ilLsREQHSGsV6L1b8krnf0BrcwQ08MD3q7tNq3H3FEt0LPithBiCpRTuA9emsowt3gtVo745Qt1GVChYLA9GilmVmBO49HAnceZA9bVFA58Keq3Jy5W1DUv3HoWJkWBHkUn2IH1LSKurVr/xjNEi9Hez7uQP9j44xk/V/kA9Kh4E3czOCDxQ== rsa-key-2013112 
+ 
+
+ Alert (TA14-098A)
+OpenSSL 'Heartbleed' vulnerability (CVE-2014-0160)
+
+#some emails
+Fred (testbozo@reallysketch.ru)
+silly billy sillyjourno@bbc.co.uk
+TO:compromised@teslacrypt.ru
+FROM:snail@bb.de
+
+#todo add some whitelisted domain emails
+
+#IPv4
+C2 IP addresses 
+5[.]149[.]254[.]114 
+ 
+5[.]9[.]32[.]230 
+ 
+31[.]210[.]111[.]154 
+ 
+88[.]198[.]25[.]92 
+ 
+146[.]0[.]74[.]7 
+ 
+188[.]40[.]8[.]72 
+ 
+148[.]251[.]82[.]21 
+ 
+94[.]158[.]214[.]45  
+ 
+2[.]61[.]168[.]116  
+ 
+
+#should be URL 
+Example C2 IP Address Interactions 
+ 
+5[.]9[.]32[.]230/Microsoft/Update/KS1945777.php  
+ 
+31[.]210[.]111[.]154/Microsoft/Update/KS081274.php  
+ 
+88[.]198[.]25[.]92/fHKfvEhleQ/maincraft/derstatus.php  
+ 
+31[.]210[.]111[.]154/Microsoft/Update/KS081274.php  
+ 
+146[.]0[.]74[.]7/l7vogLG/BVZ99/rt170v/solocVI/eegL7p.php  
+ 
+188[.]40[.]8[.]72/l7vogLG/BVZ99/rt170v/solocVI/eegL7p.php  
+ 
+5[.]149[.]254[.]114/Microsoft/Update/KC074913.php  
+ 
+148[.]251[.]82[.]21/Microsoft/Update/KS4567890.php
