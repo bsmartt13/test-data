@@ -1,0 +1,289 @@
+5148AC3134FB5AD8385C10537FEDBD2C Payment Slip.exe
+59C8D2B1592137E27C1CA85E3773F068 Purchase Order1.exe
+4B311F1E344CEDA09FBC8EA58067E338 Purchase Order1.exe
+4DA4E24086338BD0451BEC5230D9CA86 Purchase Order NO. X-15MYC004.exe
+087BE68DDE98F4F243A9CACCF2BA119D Draft1.exe
+019A689DCC5128D85718BD043197B311 Payment Slip.exe
+E232417590B6FC4BD783C5CA66EA6D7C Invoice..exe
+2582CA4E6687084D8D032D4F1CBA525C New Purchase Order.exe
+59A6DB3DAD5444042C0F69FC905F1C11 Office.exe
+7ABBA2C4190C7101D16BC6C1EA136CA0 Purchase Order....exe
+9E87CB1C1CA1545E9B0293231324BECF SAMPLE LIST A.exe
+20884D73F1D0847D10B34FE490062815 Payment Slip.exe
+1641B030C7CAB3369ABF294972D29F39 PAYMENT SLIP1.exe
+1E5C2A9C10D6719CE9017DBDC74F141C Purchase Order..exe
+4EFC57E86D070DCABD078E23EC147C08 New Purchase Order.exe
+BE11151EAC8ECAAD89E8B4FDC8510E7C purchaseOrder.exe
+65479F2BC8CE65FB489E1984A98E9E78 payment slip.exe -
+
+
+06D2238A45998D15733AAD0567B5ED1D INVOICE..exe 30028E1E24FEBCF077D6DB602B010805 INVOICE..exe 027E6819E54BF93A0A79419D92047946 INVOICE..exe 112444BFBA5D7931DD173F0606A82E3B INVOICE..exe 5504CB0B827226EF0D4067FF511BCA1D INVOICE..exe 
+
+
+Hash Filename seen in the wild
+06743A9A276758E67E7A6F66D662FCA6 INVOICE..exe
+EB2844FA3256355B4AC74612D1358626 INVOICE..exe
+ADDE5C8D98E9C099677D7E81164D7E61 INVOICE..exe
+
+
+Table 3: Hawkeye Keylogger samples exfiltrating victim information via HTTP Web Panel
+
+Below is a sampling of addresses used by the HawkEye keylogger for exfiltration:
+
+C&C IPs
+
+C&C E-Mails
+
+C&C Domains
+
+31.220.16.223
+31.220.16.243
+31.170.164.69
+
+31.170.164.145
+
+31.170.165.106
+
+31.170.165.133
+
+31.170.165.192
+
+31.170.165.196
+
+31.170.165.231
+
+192.99.212.64
+
+anayookonkwo2017@gmail.com
+anjoe2@mail.com
+canicecompany1@gmail.com
+
+elvarisi2014@gmail.com
+
+exportexportt@gmail.com
+
+gabeevkon00@gmail.com
+
+gregj6522@gmail.com
+
+himecsalesmoon@gmail.com
+
+jacojacococo@gmail.com
+
+jideofor100@gmail.com
+
+josephaboud987@gmail.com
+
+kataskatas2@gmail.com
+
+mackpingold@gmail.com
+
+moveonboy1@gmail.com
+
+mrssussydominic@gmail.com
+
+smartlogscom1@gmail.com
+
+tradeej@gmail.com
+
+anayookonkwo2017@gmail.com
+
+anjoe2@mail.com
+
+canicecompany1@gmail.com
+
+elvarisi2014@gmail.com
+
+exportexportt@gmail.com
+
+gabeevkon00@gmail.com
+
+gregj6522@gmail.com
+
+himecsalesmoon@gmail.com
+
+jacojacococo@gmail.com
+
+jideofor100@gmail.com
+
+josephaboud987@gmail.com
+
+kataskatas2@gmail.com
+
+mackpingold@gmail.com
+
+moveonboy1@gmail.com
+
+mrssussydominic@gmail.com
+
+smartlogscom1@gmail.com
+
+tradeej@gmail.com
+
+biin.besaba.com
+
+decency3.besaba.com
+den9.besaba.com
+
+don2.besaba.com
+
+don5.besaba.com
+
+eke.pe.hu
+
+biin.besaba.com
+
+decency3.besaba.com
+
+den9.besaba.com
+
+don2.besaba.com
+
+don5.besaba.com
+
+eke.pe.hu
+
+5148AC3134FB5AD8385C10537FEDBD2C Payment Slip.exe
+59C8D2B1592137E27C1CA85E3773F068 Purchase Order1.exe
+4B311F1E344CEDA09FBC8EA58067E338 Purchase Order1.exe
+4DA4E24086338BD0451BEC5230D9CA86 Purchase Order NO. X-15MYC004.exe
+087BE68DDE98F4F243A9CACCF2BA119D Draft1.exe
+019A689DCC5128D85718BD043197B311 Payment Slip.exe
+E232417590B6FC4BD783C5CA66EA6D7C Invoice..exe
+2582CA4E6687084D8D032D4F1CBA525C New Purchase Order.exe
+59A6DB3DAD5444042C0F69FC905F1C11 Office.exe
+7ABBA2C4190C7101D16BC6C1EA136CA0 Purchase Order....exe
+9E87CB1C1CA1545E9B0293231324BECF SAMPLE LIST A.exe
+20884D73F1D0847D10B34FE490062815 Payment Slip.exe
+1641B030C7CAB3369ABF294972D29F39 PAYMENT SLIP1.exe
+1E5C2A9C10D6719CE9017DBDC74F141C Purchase Order..exe
+4EFC57E86D070DCABD078E23EC147C08 New Purchase Order.exe
+BE11151EAC8ECAAD89E8B4FDC8510E7C purchaseOrder.exe
+65479F2BC8CE65FB489E1984A98E9E78 payment slip.exe -
+
+
+06D2238A45998D15733AAD0567B5ED1D INVOICE..exe 30028E1E24FEBCF077D6DB602B010805 INVOICE..exe 027E6819E54BF93A0A79419D92047946 INVOICE..exe 112444BFBA5D7931DD173F0606A82E3B INVOICE..exe 5504CB0B827226EF0D4067FF511BCA1D INVOICE..exe 
+
+
+Hash Filename seen in the wild
+06743A9A276758E67E7A6F66D662FCA6 INVOICE..exe
+EB2844FA3256355B4AC74612D1358626 INVOICE..exe
+ADDE5C8D98E9C099677D7E81164D7E61 INVOICE..exe
+
+
+Table 3: Hawkeye Keylogger samples exfiltrating victim information via HTTP Web Panel
+
+Below is a sampling of addresses used by the HawkEye keylogger for exfiltration:
+
+C&C IPs
+
+C&C E-Mails
+
+C&C Domains
+
+31.220.16.223
+31.220.16.243
+31.170.164.69
+
+31.170.164.145
+
+31.170.165.106
+
+31.170.165.133
+
+31.170.165.192
+
+31.170.165.196
+
+31.170.165.231
+
+192.99.212.64
+
+anayookonkwo2017@gmail.com
+anjoe2@mail.com
+canicecompany1@gmail.com
+
+elvarisi2014@gmail.com
+
+exportexportt@gmail.com
+
+gabeevkon00@gmail.com
+
+gregj6522@gmail.com
+
+himecsalesmoon@gmail.com
+
+jacojacococo@gmail.com
+
+jideofor100@gmail.com
+
+josephaboud987@gmail.com
+
+kataskatas2@gmail.com
+
+mackpingold@gmail.com
+
+moveonboy1@gmail.com
+
+mrssussydominic@gmail.com
+
+smartlogscom1@gmail.com
+
+tradeej@gmail.com
+
+anayookonkwo2017@gmail.com
+
+anjoe2@mail.com
+
+canicecompany1@gmail.com
+
+elvarisi2014@gmail.com
+
+exportexportt@gmail.com
+
+gabeevkon00@gmail.com
+
+gregj6522@gmail.com
+
+himecsalesmoon@gmail.com
+
+jacojacococo@gmail.com
+
+jideofor100@gmail.com
+
+josephaboud987@gmail.com
+
+kataskatas2@gmail.com
+
+mackpingold@gmail.com
+
+moveonboy1@gmail.com
+
+mrssussydominic@gmail.com
+
+smartlogscom1@gmail.com
+
+tradeej@gmail.com
+
+biin.besaba.com
+
+decency3.besaba.com
+den9.besaba.com
+
+don2.besaba.com
+
+don5.besaba.com
+
+eke.pe.hu
+
+biin.besaba.com
+
+decency3.besaba.com
+
+den9.besaba.com
+
+don2.besaba.com
+
+don5.besaba.com
+
+eke.pe.hu
