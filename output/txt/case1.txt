@@ -47,6 +47,6 @@
         }
     },
     "validators": [
-    	{'e9a706e816c77ec7eee4a8cbd13c35aa': {'Whitelisted domain': {'indicator_type': 'hostname', 'action': 'remove', 'indicator': u'www.trendmicro.com', 'msg': ''}}, 'ca19e0b76e13496bb2c37babd0fb7759': {'Listed on Alexa': {'indicator_type': 'domain', 'action': 'remove', 'indicator': u'bbc.co.uk', 'msg': 'Alexa rank: 97'}}}
+    	{"e9a706e816c77ec7eee4a8cbd13c35aa": {"Whitelisted domain": {"indicator_type": "hostname", "action": "remove", "indicator": "www.trendmicro.com", "msg": ""}}, "ca19e0b76e13496bb2c37babd0fb7759": {"Listed on Alexa": {"indicator_type": "domain", "action": "remove", "indicator": "bbc.co.uk", "msg": "Alexa rank: 97"}}}
     ]
 }
