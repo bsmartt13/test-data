@@ -11,9 +11,9 @@
             "IPv4": [],
             "email": [],
             "CVE": [],
-            "SHA1": [],
-            "MD5": [],
-            "SHA256": []
+            "FileHash-SHA1": [],
+            "FileHash-MD5": [],
+            "FileHash-SHA256": []
         }
     },
     "exclude": {
@@ -25,9 +25,9 @@
             "domain": [],
             "CVE": [],
             "email": [],
-            "MD5": [],
-            "SHA1": [],
-            "SHA256": [],
+            "FileHash-MD5": [],
+            "FileHash-SHA1": [],
+            "FileHash-SHA256": [],
             "IPv4": []
         }
     }
