@@ -1,35 +1,34 @@
 {
-	"include": {
-		"indicators": {
-			"URL": [
-				"http://www.workingdudes.xyz/web/",
-				"hxxp://www.wsrn--trade.com/chimmy/web/",
-				"hxxp://www.yemchio.co/udobata/"
-			],
-			"hostname": [],
-			"domain": [],
-			"IPv4": [],
-			"email": [],
-			"CVE": [],
-			"SHA1": [],
-			"MD5": [],
-			"SHA256": []
-		}
-	}
-	"exclude": {
-		"indicators": {
-			"URL": [
-				"hxxp://www.xn----8sbtdboa.xn--p1ai/K/"
-			],
-			"hostname": [],
-			"domain": [],
-			"CVE": [],
-			"email": [],
-			"MD5": [],
-			"SHA1": [],
-			"SHA256": [],
-			"IPv4": []
-		}
-	}
-
+    "include": {
+        "indicators": {
+            "URL": [
+                "http://www.workingdudes.xyz/web/",
+                "hxxp://www.wsrn--trade.com/chimmy/web/",
+                "hxxp://www.yemchio.co/udobata/"
+            ],
+            "hostname": [],
+            "domain": [],
+            "IPv4": [],
+            "email": [],
+            "CVE": [],
+            "SHA1": [],
+            "MD5": [],
+            "SHA256": []
+        }
+    },
+    "exclude": {
+        "indicators": {
+            "URL": [
+                "hxxp://www.xn----8sbtdboa.xn--p1ai/K/"
+            ],
+            "hostname": [],
+            "domain": [],
+            "CVE": [],
+            "email": [],
+            "MD5": [],
+            "SHA1": [],
+            "SHA256": [],
+            "IPv4": []
+        }
+    }
 }
