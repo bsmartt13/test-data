@@ -26,7 +26,7 @@
             ],
             "hostname": [],
             "URL": [
-                "http://5.9.32.230/Microsoft/Update/KS1945777.php"
+                "http://5.9.32.230/Microsoft/Update/KS1945777.php",
                 "http://31.210.111.154/Microsoft/Update/KS081274.php",
                 "http://88.198.25.92/fHKfvEhleQ/maincraft/derstatus.php",
                 "http://31.210.111.154/Microsoft/Update/KS081274.php",
