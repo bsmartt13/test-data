@@ -40,8 +40,6 @@ SSH backdoor key
 AAAAB3NzaC1yc2EAAAABJQAAAQEAsrGnWG3XPW4tO8tRLhFXQyuM5ZcLl9tIsnlMyIUXwptcU29hGpzMWVmbAy18EEEXKtyXIlxOKqp7CWgEJWWxjsvXKB66Gp/sVcizXqbV2P0PfVMRwZ144Ui0ffrpGxWMOnp7rrByANQSPdGtJlQ/yqqFFgiM2u7ilLsREQHSGsV6L1b8krnf0BrcwQ08MD3q7tNq3H3FEt0LPithBiCpRTuA9emsowt3gtVo745Qt1GVChYLA9GilmVmBO49HAnceZA9bVFA58Keq3Jy5W1DUv3HoWJkWBHkUn2IH1LSKurVr/xjNEi9Hez7uQP9j44xk/V/kA9Kh4E3czOCDxQ== rsa-key-2013112 
  
 
- Alert (TA14-098A)
-OpenSSL 'Heartbleed' vulnerability (CVE-2014-0160)
 
 #some emails
 Fred (testbozo@reallysketch.ru)
