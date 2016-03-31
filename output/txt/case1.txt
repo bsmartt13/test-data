@@ -19,7 +19,11 @@
                 "d5213e974079aa7362585f628a3e9597609816781a9dfb4aec9660b99d5f864d",
                 "7b583488a31def8b42e6a1b562c893d42791858c79029299831a3e58724b51d6"
             ],
-            "domain": [],
+            "domain": [
+                "teslacrypt.ru",
+                "reallysketch.ru",
+                "bb.de"
+            ],
             "hostname": [],
             "URL": [
                 "5.9.32.230/Microsoft/Update/KS1945777.php",
