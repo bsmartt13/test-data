@@ -26,17 +26,24 @@
             ],
             "hostname": [],
             "URL": [
-                "http://5.9.32.230/Microsoft/Update/KS1945777.php",
+                "http://5.9.32.230/Microsoft/Update/KS1945777.php"
                 "http://31.210.111.154/Microsoft/Update/KS081274.php",
                 "http://88.198.25.92/fHKfvEhleQ/maincraft/derstatus.php",
                 "http://31.210.111.154/Microsoft/Update/KS081274.php",
-                "http://146.0.74.7/l7vogLG/BVZ99/rt170v/solocVI/eegL7p.php"
+                "http://146.0.74.7/l7vogLG/BVZ99/rt170v/solocVI/eegL7p.php",
+                "http://188.40.8.72/l7vogLG/BVZ99/rt170v/solocVI/eegL7p.php",
+                "http://5.149.254.114/Microsoft/Update/KC074913.php",
+                "http://148.251.82.21/Microsoft/Update/KS4567890.php"
             ],
             "IPv4": [
                 "5.149.254.114",
                 "5.9.32.230",
                 "31.210.111.154",
+                "88.198.25.92",
                 "146.0.74.7",
+                "188.40.8.72",
+                "148.251.82.21",
+                "94.158.214.45",
                 "2.61.168.116"
             ],
             "email": [

@@ -8,7 +8,7 @@ Hashes
 896fcacff6310bbe5335677e99e4c3d370f73d96 
  
 069163E1FB606C6178E23066E0AC7B7F0E18506B 
- 
+ 	
 0B4BE96ADA3B54453BD37130087618EA90168D72 
  
 1A716BF5532C13FA0DC407D00ACDC4A457FA87CD 
@@ -74,13 +74,9 @@ C2 IP addresses
 
 #should be URL 
 Example C2 IP Address Interactions 
- 
 5[.]9[.]32[.]230/Microsoft/Update/KS1945777.php  
- 
 31[.]210[.]111[.]154/Microsoft/Update/KS081274.php  
- 
 88[.]198[.]25[.]92/fHKfvEhleQ/maincraft/derstatus.php  
- 
 31[.]210[.]111[.]154/Microsoft/Update/KS081274.php  
  
 146[.]0[.]74[.]7/l7vogLG/BVZ99/rt170v/solocVI/eegL7p.php  
