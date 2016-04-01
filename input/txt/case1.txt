@@ -2,7 +2,7 @@
 Trend Micro Incorporated, a global leader in security software, strives to make the world safe for exchanging digital information. Our innovative solutions for consumers, businesses and governments provide layered content security to protect information on mobile devices, endpoints, gateways, servers and the cloud. All of our solutions are powered by cloud-based global threat intelligence, the Trend Micro™ Smart Protection Network™, and are supported by over 1,200 threat experts around the globe. For more information, visit www.trendmicro.com.  
  
 Hashes  
- 
+#sha1
 4c424d5c8cfedf8d2164b9f833f7c631f94c5a4c 
  
 896fcacff6310bbe5335677e99e4c3d370f73d96 
@@ -16,13 +16,9 @@ Hashes
 1A86F7EF10849DA7D36CA27D0C9B1D686768E177 
  
 1CBE4E22B034EE8EA8567E3F8EB9426B30D4AFFE 
- 
 
 # md5 
 3e49e0dd526eccfad15273acf50a8270 
-
- 
-
 
  #sha256
 33140ff0c77ba446bdb099d21afa28d005794a5eab364c39382a6b235c4caef9
