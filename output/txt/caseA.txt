@@ -48,7 +48,6 @@
             ],
             "email": [
                 "testbozo@reallysketch.ru",
-                "sillyjourno@bbc.co.uk",
                 "compromised@teslacrypt.ru",
                 "snail@bb.de"
             ],
