@@ -7,4 +7,13 @@ hxxp://www.yemchio.co/udobata/
  Alert (TA14-098A)
 OpenSSL 'Heartbleed' vulnerability (CVE-2014-0160)
 
+# invalid hostname
+avc.blart.tq
+
+# invalid domain
+notv.c
+
+# invalid ip
+144.256.131.33
+
 silly billy sillyjourno@bbc.co.uk

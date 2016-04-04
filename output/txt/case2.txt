@@ -23,16 +23,21 @@
             "URL": [
                 "hxxp://www.xn----8sbtdboa.xn--p1ai/K/"
             ],
-            "hostname": [],
-            "domain": [],
+            "hostname": [
+                "avc.blart.tq"
+            ],
+            "domain": [
+                "notv.c"
+            ],
             "CVE": [],
             "email": [
-                "sillyjourno@bbc.co.uk"
             ],
             "FileHash-MD5": [],
             "FileHash-SHA1": [],
             "FileHash-SHA256": [],
-            "IPv4": []
+            "IPv4": [
+                "144.256.131.33"
+            ]
         }
     }
 }
