@@ -7,7 +7,9 @@
                 "http://www.yemchio.co/udobata/"
             ],
             "hostname": [],
-            "domain": [],
+            "domain": [
+                "buzzfeud.com"
+            ],
             "IPv4": [],
             "email": [],
             "CVE": [

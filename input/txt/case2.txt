@@ -16,4 +16,5 @@ notv.c
 # invalid ip
 144.256.131.33
 
+# email (and domain)
 silly billy sillyjourno@buzzfeud.com left a message for you.
