@@ -11,7 +11,9 @@
                 "buzzfeud.com"
             ],
             "IPv4": [],
-            "email": [],
+            "email": [
+                "sillyjourno@buzzfeud.com"
+            ],
             "CVE": [
                 "CVE-2014-0160"
             ],
@@ -33,7 +35,6 @@
             ],
             "CVE": [],
             "email": [
-                "sillyjourno@buzzfeud.com"
             ],
             "FileHash-MD5": [],
             "FileHash-SHA1": [],
