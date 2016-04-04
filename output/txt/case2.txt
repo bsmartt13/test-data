@@ -3,8 +3,8 @@
         "indicators": {
             "URL": [
                 "http://www.workingdudes.xyz/web/",
-                "hxxp://www.wsrn--trade.com/chimmy/web/",
-                "hxxp://www.yemchio.co/udobata/"
+                "http://www.wsrn--trade.com/chimmy/web/",
+                "http://www.yemchio.co/udobata/"
             ],
             "hostname": [],
             "domain": [],
