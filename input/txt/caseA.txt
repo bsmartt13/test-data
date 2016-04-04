@@ -68,15 +68,4 @@ C2 IP addresses
 
 #should be URL
 Example C2 IP Address Interactions
-5[.]9[.]32[.]230/Microsoft/Update/KS1945777.php
-31[.]210[.]111[.]154/Microsoft/Update/KS081274.php
-88[.]198[.]25[.]92/fHKfvEhleQ/maincraft/derstatus.php
-31[.]210[.]111[.]154/Microsoft/Update/KS081274.php
-
-146[.]0[.]74[.]7/l7vogLG/BVZ99/rt170v/solocVI/eegL7p.php
-
-188[.]40[.]8[.]72/l7vogLG/BVZ99/rt170v/solocVI/eegL7p.php
-
-5[.]149[.]254[.]114/Microsoft/Update/KC074913.php
-
-148[.]251[.]82[.]21/Microsoft/Update/KS4567890.php
+88[.]198[.]25[.]92/fhkfvehleq/maincraft/derstatus.php
