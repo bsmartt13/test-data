@@ -6,7 +6,11 @@
                 "http://www.wsrn--trade.com/chimmy/web/",
                 "http://www.yemchio.co/udobata/"
             ],
-            "hostname": [],
+            "hostname": [
+                "www.yemchio.co",
+                "www.wsrn--trade.com",
+                "www.workingdudes.xyz"
+            ],
             "domain": [
                 "buzzfeud.com"
             ],
