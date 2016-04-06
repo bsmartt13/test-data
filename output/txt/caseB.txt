@@ -4,9 +4,11 @@
             "URL": [
                 "http://www.workingdudes.xyz/web/",
                 "http://www.wsrn--trade.com/chimmy/web/",
-                "http://www.yemchio.co/udobata/"
+                "http://www.yemchio.co/udobata/",
+                "hxxp://www.xn----8sbtdboa.xn--p1ai/K/"
             ],
             "hostname": [
+                "www.xn----8sbtdboa.xn--p1ai",
                 "www.yemchio.co",
                 "www.wsrn--trade.com",
                 "www.workingdudes.xyz"
@@ -28,9 +30,7 @@
     },
     "exclude": {
         "indicators": {
-            "URL": [
-                "hxxp://www.xn----8sbtdboa.xn--p1ai/K/"
-            ],
+            "URL": [],
             "hostname": [
                 "avc.blart.tq"
             ],
