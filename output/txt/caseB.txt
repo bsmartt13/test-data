@@ -5,7 +5,7 @@
                 "http://www.workingdudes.xyz/web/",
                 "http://www.wsrn--trade.com/chimmy/web/",
                 "http://www.yemchio.co/udobata/",
-                "hxxp://www.xn----8sbtdboa.xn--p1ai/K/"
+                "http://www.xn----8sbtdboa.xn--p1ai/K/"
             ],
             "hostname": [
                 "www.xn----8sbtdboa.xn--p1ai",
