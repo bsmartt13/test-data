@@ -1,0 +1,38 @@
+{
+    "include": {
+        "indicators": {
+            "URL": [
+                "http://kskillsmobility.eu/ludO0_.php",
+                "http://jlprotect.ca/_poxuV.php",
+                "http://ronikagp.ir/U_ABoi.php"
+            ],
+            "hostname": [
+            ],
+            "domain": [
+                "jlprotect.ca",
+                "kskillsmobility.eu",
+                "ronikagp.ir"
+            ],
+            "IPv4": [],
+            "email": [],
+            "CVE": [],
+            "FileHash-SHA1": [],
+            "FileHash-MD5": [],
+            "FileHash-SHA256": []
+        }
+    },
+    "exclude": {
+        "indicators": {
+            "URL": [],
+            "hostname": [],
+            "domain": [],
+            "CVE": [],
+            "email": [
+            ],
+            "FileHash-MD5": [],
+            "FileHash-SHA1": [],
+            "FileHash-SHA256": [],
+            "IPv4": []
+        }
+    }
+}

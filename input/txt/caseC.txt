@@ -1,0 +1,5 @@
+xamples:
+hxxp://kskillsmobility[.]eu/ludO0_[.]php
+hxxp://jlprotect[.]ca/_poxuV[.]php
+http://ronikagp.ir/U_ABoi.php
+The URLs are not properly extracted when they contain an underscore
