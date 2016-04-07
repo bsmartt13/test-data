@@ -8,6 +8,7 @@
                 "hxxp://www.xn----8sbtdboa.xn--p1ai/K/"
             ],
             "hostname": [
+                "www.xn----8sbtdboa.xn--p1ai",
                 "www.yemchio.co",
                 "www.wsrn--trade.com",
                 "www.workingdudes.xyz"
@@ -29,9 +30,7 @@
     },
     "exclude": {
         "indicators": {
-            "URL": [
-
-            ],
+            "URL": [],
             "hostname": [
                 "avc.blart.tq"
             ],
