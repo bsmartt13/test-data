@@ -4,7 +4,8 @@
             "URL": [
                 "http://www.workingdudes.xyz/web/",
                 "http://www.wsrn--trade.com/chimmy/web/",
-                "http://www.yemchio.co/udobata/"
+                "http://www.yemchio.co/udobata/",
+                "hxxp://www.xn----8sbtdboa.xn--p1ai/K/"
             ],
             "hostname": [
                 "www.yemchio.co",
@@ -29,7 +30,7 @@
     "exclude": {
         "indicators": {
             "URL": [
-                "hxxp://www.xn----8sbtdboa.xn--p1ai/K/"
+
             ],
             "hostname": [
                 "avc.blart.tq"
